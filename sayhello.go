@@ -1,4 +1,4 @@
-package modulcobasayhello
+package modul_coba_sayhello
 
 import "fmt"
 
