@@ -2,6 +2,6 @@ package modul_coba_sayhello
 
 import "fmt"
 
-func sayHello() {
+func SayHello() {
 	fmt.Println("Hello World")
 }
